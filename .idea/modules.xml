@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Timus_task/Timus_task.iml" filepath="$PROJECT_DIR$/Timus_task/Timus_task.iml" />
       <module fileurl="file://$PROJECT_DIR$/java course.iml" filepath="$PROJECT_DIR$/java course.iml" />
     </modules>
   </component>
