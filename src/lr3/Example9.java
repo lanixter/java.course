@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-import static com.sun.beans.introspect.PropertyInfo.Name.bound;
+
 
 public class Example9 {
     public static void main(String[] args) {
