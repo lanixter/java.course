@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jdtaus.core.logging.log4j" type="repository">
+    <properties maven-id="org.jdtaus.core.logging:jdtaus-core-log4j-logging:1.15" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdtaus/core/logging/jdtaus-core-log4j-logging/1.15/jdtaus-core-log4j-logging-1.15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdtaus/core/jdtaus-core-spi/1.15/jdtaus-core-spi-1.15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdtaus/common/jdtaus-core-api/1.15/jdtaus-core-api-1.15.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jdtaus/core/jdtaus-core-schemas/1.15/jdtaus-core-schemas-1.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
